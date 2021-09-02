@@ -9,8 +9,6 @@
         "chrono": "cpp",
         "clocale": "cpp",
         "cmath": "cpp",
-        "compare": "cpp",
-        "concepts": "cpp",
         "cstdarg": "cpp",
         "cstddef": "cpp",
         "cstdint": "cpp",
@@ -45,9 +43,10 @@
         "limits": "cpp",
         "new": "cpp",
         "ostream": "cpp",
-        "ranges": "cpp",
+        "sstream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "cinttypes": "cpp"
     }
 }
